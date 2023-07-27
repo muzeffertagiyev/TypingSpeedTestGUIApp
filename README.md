@@ -24,19 +24,7 @@ The Typing Speed Test Application is a simple Python-based desktop application t
 9. It will also show an efficiency percentage, indicating your improvement compared to the last attempt.
 10. You can restart the test or close the application using the corresponding buttons.
 
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-
 ## Dependencies
 
 The application uses the Tkinter library for its GUI interface. Additionally, it requires a list of words, which is provided in the `words.py` file.
 
-## Contributions
-
-Contributions to the project are welcome. If you have any ideas for improvements or bug fixes, feel free to submit a pull request.
-
-## License
-
-This Typing Speed Test Application is open-source and available under the [MIT License](LICENSE).

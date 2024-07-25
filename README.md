@@ -2,6 +2,13 @@
 
 The Typing Speed Test Application is a simple Python-based desktop application that allows users to test and improve their typing speed and accuracy. The application presents users with a random set of words, and they are required to type those words as quickly and accurately as possible.
 
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/608d7bc2-ff2f-496d-880f-c9e941eb4aaa
+
+
 ## Features
 
 - Randomly generates a set of words for the user to type.
